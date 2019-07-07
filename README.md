@@ -2,10 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Made by following tutorial from  Emmancipate Musemwa @ https://www.codementor.io/emmancipatemusemwa/react-hooks-for-beginners-whzq9ws26?utm_content=posts
 
-To run the projecet:
+To run the project:
 
-1.) cd todo-list-react-hooks
+1.) git clone https://github.com/Eoghan-K/todo-list-react-hooks.git
 
-2.) Run: npm install
+2.) cd todo-list-react-hooks
 
-3.) Run: yarn start
+3.) Run: npm install
+
+4.) Run: yarn start
