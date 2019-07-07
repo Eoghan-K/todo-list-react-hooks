@@ -6,6 +6,6 @@ To run the projecet:
 
 1.) cd todo-list-react-hooks
 
-2.) Run npm install
+2.) Run: npm install
 
-3.) Run yarn start
+3.) Run: yarn start
