@@ -4,8 +4,8 @@ Made by following tutorial from  Emmancipate Musemwa @ https://www.codementor.io
 
 To run the projecet:
 
-1.) Run npm install
+1.) cd todo-list-react-hooks
 
-2.) cd todo-list-react-hooks
+2.) Run npm install
 
 3.) Run yarn start
